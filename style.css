@@ -6,6 +6,10 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+  background-color: tomato;
+}
+
 .container {
   width: 800px;
   margin: 50px auto;
